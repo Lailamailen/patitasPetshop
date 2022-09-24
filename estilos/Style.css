@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400;500&display=swap");
+body {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: rgb(219, 26, 26);
+  font-size: 40px;
+  padding: 20px;
+  background: radial-gradient(circle, rgba(238, 174, 202, 0.9051995798) 43%, rgb(148, 231, 233) 76%);
+}
+
+h2 {
+  color: rgb(216, 91, 91);
+  background-color: aliceblue;
+  font-style: italic;
+  font-size: 25px;
+  padding-top: 20px;
+  margin: 20px;
+  border-top: solid;
+  color: black;
+  border-left: solid;
+  color: white;
+  border-right: solid;
+  color: black;
+  border-bottom: solid;
+  @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400;500&display=swap");
+}
+
+footer {
+  padding: 100%;
+  margin-left: 50px;
+  width: 100%;
+  padding: 30px;
+  display: flex;
+  height: auto;
+  flex-direction: row;
+  justify-content: center;
+  background: radial-gradient(circle, rgba(238, 174, 202, 0.9051995798) 43%, rgb(148, 231, 233) 76%);
+} /*# sourceMappingURL=Style.css.map */ /*# sourceMappingURL=Style.css.map */
+.flexprincipal {
+  margin: 0 25%;
+}
+
+.Flexalimento {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  line-height: 20px;
+  padding: 30px;
+  margin: 30px;
+}/*# sourceMappingURL=Style.css.map */
